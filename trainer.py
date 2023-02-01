@@ -1,6 +1,3 @@
-#YOLOv7 Find Angle Function
-#By Augmented Startups
-#Visit www.augmentedstartups.com
 import math
 import cv2
 

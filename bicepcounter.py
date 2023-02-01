@@ -1,6 +1,3 @@
-#YOLOv7 Bicep Curl Counter Tutorial
-#By Augmented Startups
-#Visit www.augmentedstartups.com
 import cv2
 import time
 import torch
